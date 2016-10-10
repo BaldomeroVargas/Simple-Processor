@@ -3,7 +3,7 @@
 Final Lab Project for University of California, Riverside EE/CS120A Logic Design Course. 
 
 ##Contributors
-**Matthew Lumantas:** In charge of designing Register Display and Control Unit components. Implemented theory of the Processor in a higher level state machine.<br / > <br / >
+**Matthew Lumantas:** In charge of designing Register Display and Control Unit components. Implemented theory of the Processor in a higher level state machine.<br / > <br / > Github: https://github.com/mattlumantas
 **Baldomero Vargas:** In charge of designing 10 Input Mux, Register Bank, ALU components.
 
 ##Project Description
