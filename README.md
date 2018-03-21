@@ -15,7 +15,7 @@ The memory unit must particularly be noted, as the entirety of the designed memo
 
 ## How to use
 
-In order to view in the Xilinx ISE do the following in your terminal
+In order to view in the Xilinx ISE do the following in your terminal 
 
 ````
 git clone https://github.com/BaldomeroVargas/Simple-Processor.git
