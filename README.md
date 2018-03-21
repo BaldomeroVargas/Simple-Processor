@@ -6,7 +6,7 @@ Final Lab Project for University of California, Riverside EE/CS120A Logic Design
 **Matthew Lumantas:** In charge of designing Register Display and Control Unit components. Implemented theory of the Processor in a higher level state machine. Github: https://github.com/mattlumantas 
 
 
-** Baldomero Vargas:** In charge of designing 10 Input Mux, Register Bank, ALU components.
+**Baldomero Vargas:** In charge of designing 10 Input Mux, Register Bank, ALU components.
 
 ## Project Description
 This project consists of the implementation of the von Neumann model at the logic gate level using the Spartan3E FPGA based BASYS2 prototyping board. The machine is capable of moving 8-bit values between its eight registers, loading immediate values to a register, and adding or subtracting the values of two registers together. The control unit was designed using a finite state machine (FSM) model. Using FSM conversion techniques, we created a large truth table to coordinate the manipulation of data. The arithmatic logic unit is a simple adder with an added conversion step for use in subtraction. Input is handled using the BASYS2's onboard switches and buttons and output are seven segment displays with the contents of a selected register.
